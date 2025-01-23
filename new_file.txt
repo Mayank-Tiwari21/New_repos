@@ -1,0 +1,2 @@
+This is a file in newbranch.
+This file is text.
